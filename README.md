@@ -32,9 +32,11 @@
 
 <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***Talking about Personal Stuffs...***
 
-
+Research Interest:
 ✔ Computer Vision, ✔Machine Learning, ✔Deep Learning, ✔Medical Imaging, ✔Image Processing, ✔Explainable AI, ✔NLP <br> <br>
-My Expertise <br><br>
+
+✅  ✅  ✅  ✅  ✅  ✅ My Expertise ✅  ✅  ✅  ✅  ✅  ✅ <br><br>
+
 ⭐ Tensorflow ⭐ Keras ⭐ Pytorch ⭐ OpenCV  <br>
 ⭐ Deep Learning ⭐ Machine Learning ⭐ NLP ⭐ Data Visualization  <br>
 ⭐ Artificial Neural Networks(ANN) ⭐ Convolutional Neural Network(CNN)  <br>
