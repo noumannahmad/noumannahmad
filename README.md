@@ -2,7 +2,7 @@
   <img src="https://github.com/thompsonemerson/thompsonemerson/raw/master/cover-thompson.png" height="200"/>
 </p>
 <hr>
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Akash chowrasia</h1>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Nouman Ahmad</h1>
 <h3 align="center">Researcher & Development Engineer | AI for Healthcare Computer Vision | Machine Learning | Data Science | NLP Engineer </h3>
 <p align="center">
 <a href="https://www.linkedin.com/in/nouman-ahmad/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="nouman-ahmad" height="30" width="40" /></a>
@@ -33,8 +33,8 @@
 <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***Talking about Personal Stuffs...***
 
 
-✔ Computer Vision, ✔Machine Learning, ✔Deep Learning, ✔Medical Imaging, ✔Image Processing, ✔Explainable AI, ✔NLP <br>
-My Expertise
+✔ Computer Vision, ✔Machine Learning, ✔Deep Learning, ✔Medical Imaging, ✔Image Processing, ✔Explainable AI, ✔NLP <br> <br>
+My Expertise <br><br>
 ⭐ Tensorflow ⭐ Keras ⭐ Pytorch ⭐ OpenCV  <br>
 ⭐ Deep Learning ⭐ Machine Learning ⭐ NLP ⭐ Data Visualization  <br>
 ⭐ Artificial Neural Networks(ANN) ⭐ Convolutional Neural Network(CNN)  <br>
@@ -49,9 +49,9 @@ My Expertise
 
 <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***Languages & Tools I Know...***
 <p align="left">
-  
-  <code><img height="50" src="https://github.com/uannabi/-/blob/master/resource/python-icon.svg"></code><code> 
-  <img height="50" src="https://github.com/uannabi/-/blob/master/resource/dj.svg"> </code>
+  <code><img height="50" src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg"></code>
+  <code><img height="50" src="https://github.com/uannabi/-/blob/master/resource/python-icon.svg"></code>
+  <code> <img height="50" src="https://github.com/uannabi/-/blob/master/resource/dj.svg"> </code>
   <code> <img height="50" src="https://github.com/uannabi/-/blob/master/resource/jp.svg"> </code>
   <code> <img height="50" src="https://github.com/uannabi/-/blob/master/resource/docker-ar21.svg"> </code>
   <code> <img height="50" src="https://github.com/uannabi/-/blob/master/resource/git.svg"> </code>
@@ -64,13 +64,6 @@ My Expertise
   <code> <img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg"> </code>
   <code> <img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg"> </code>
   <code> <img height="50" src="https://github.com/Akash-chowrasia/Akash-chowrasia/blob/main/images/flask.svg"> </code>
-  <code> <img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"> </code>
-  <code> <img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg"> </code>
-  <code> <img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"> </code>
-  <code> <img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg"> </code>
-  <code> <img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"> </code>
-  <code> <img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg"> </code>
-  <code> <img height="50" src="  https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg
 "> </code>
   <hr>
   <p align="center">
