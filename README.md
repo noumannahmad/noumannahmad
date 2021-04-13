@@ -36,22 +36,9 @@
 <h2>This Github contain Repositories:</h2>
 
 
-<a href="url">link text</a>
-<dl>
-  <dt>Interpreting-Machine-Learning-Models</dt>
-  <dd><a href="https://github.com/noumannahmad/Interpreting-Machine-Learning-Models"></a></dd>
-  <dt>Computer Vision</dt>
-  <dd><a href="https://github.com/noumannahmad/Computer-Vision"></a></dd>
-</dl>
+<a href="https://github.com/noumannahmad/Interpreting-Machine-Learning-Models">Interpreting-Machine-Learning-Models</a>
+<a href="https://github.com/noumannahmad/Computer-Vision">Computer Vision</a>
 
-<h1>The ol and ul elements</h1>
-
-<p>The ol element defines an ordered list:</p>
-<ol>
-  <li>Interpreting-Machine-Learning-Models<a href="https://github.com/noumannahmad/Interpreting-Machine-Learning-Models"></a></li>
-  <li>Tea</li>
-  <li>Milk</li>
-</ol>
 
 
 ✅  ✅  ✅  ✅  ✅  ✅ My Expertise ✅  ✅  ✅  ✅  ✅  ✅ <br><br>
