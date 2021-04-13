@@ -37,9 +37,9 @@
 
 <dl>
   <dt>Interpreting-Machine-Learning-Models</dt>
-  <dd><a href="https://github.com/noumannahmad/Interpreting-Machine-Learning-Models/"></dd>
+  <dd><a href="https://github.com/noumannahmad/Interpreting-Machine-Learning-Models"></a></dd>
   <dt>Computer Vision</dt>
-  <dd><a href="https://github.com/noumannahmad/Computer-Vision/"></dd>
+  <dd><a href="https://github.com/noumannahmad/Computer-Vision"></a></dd>
 </dl>
 
 
