@@ -38,10 +38,11 @@
 <ol>
   <li value="1"><a href="https://github.com/noumannahmad/Interpreting-Machine-Learning-Models">Interpreting-Machine-Learning-Models</a></li>
   <li><a href="https://github.com/noumannahmad/Computer-Vision">Computer Vision</a></li>
-  <li>Milk</li>
-  <li>Water</li>
-  <li>Juice</li>
-  <li>Beer</li>
+  <li><a href="https://github.com/noumannahmad/Deep-Learning">Deep Learing</a></li>
+  <li><a href="https://github.com/noumannahmad/Machine-Learning">Machine Learing</a></li> 
+  <li><a href="https://github.com/noumannahmad/Natural-Language-Processing">Natural Language Processing</a></li>
+  <li><a href="https://github.com/noumannahmad/OpenCV">OpenCV</a></li>
+  <li><a href="https://github.com/noumannahmad/Amazing-Python">Amazing Python</a></li>
 </ol>
 
 
