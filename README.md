@@ -33,10 +33,6 @@
 ✔ Computer Vision ✔Machine Learning ✔Deep Learning ✔Medical Imaging ✔Image Processing ✔Explainable AI ✔NLP <br> <br>
 
 
-<b>This Github contain Repositories:<b>
-
-
-
 <h2>This Github contain Repositories:</h2>
 
 <dl>
