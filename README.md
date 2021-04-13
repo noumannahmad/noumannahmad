@@ -43,6 +43,7 @@
   <li><a href="https://github.com/noumannahmad/Natural-Language-Processing">Natural Language Processing</a></li>
   <li><a href="https://github.com/noumannahmad/OpenCV">OpenCV</a></li>
   <li><a href="https://github.com/noumannahmad/Amazing-Python">Amazing Python</a></li>
+  <li><a href="https://github.com/noumannahmad/Flask">Flask Web Apps</a></li>
 </ol>
 
 
