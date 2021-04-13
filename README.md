@@ -11,7 +11,6 @@
 </p>
 
 
-
 <p align="center">
   <em>
     This is ME, Nouman ahmad, a <b>MS Scholar </b> graduate from <a href="http://islamabad.comsats.edu.pk/"> <b>COMSATS University Islamabad</b>, Pakistan </a>. <br>
@@ -25,7 +24,8 @@
 </p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=noumannahmad&label=Profile%20views&color=0e75b6&style=flat" alt="noumannahmad" /> </p>
- <! -- <img align="right" width=300px alt="Unicorn" src="https://media.giphy.com/media/3ohs4BSacFKI7A717y/giphy.gif" /> -->
+
+ <!  <img align="right" width=300px alt="Unicorn" src="https://media.giphy.com/media/3ohs4BSacFKI7A717y/giphy.gif" /> >
 
 <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***Talking about Personal Stuffs...***
 
