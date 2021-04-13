@@ -36,7 +36,7 @@
 <h2>This Github contain Repositories:</h2>
 
 <ol>
-  <li value="1"><a href="https://github.com/noumannahmad/Interpreting-Machine-Learning-Models">Interpreting-Machine-Learning-Models</a></li>
+  <li value="1"><a href="https://github.com/noumannahmad/Interpreting-Machine-Learning-Models">Interpreting Machine Learning & Explainable AI(XAI)</a></li>
   <li><a href="https://github.com/noumannahmad/Computer-Vision">Computer Vision</a></li>
   <li><a href="https://github.com/noumannahmad/Deep-Learning">Deep Learing</a></li>
   <li><a href="https://github.com/noumannahmad/Machine-Learning">Machine Learing</a></li> 
