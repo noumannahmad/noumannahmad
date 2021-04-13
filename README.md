@@ -32,7 +32,7 @@
 ✔ Computer Vision ✔Machine Learning ✔Deep Learning ✔Medical Imaging ✔Image Processing ✔Explainable AI ✔NLP <br> <br>
 
 
-<h2>This Github contain Repositories:</h2>
+<h2>This Github Repositories are:</h2>
 
 <ol>
   <li value="1"><a href="https://github.com/noumannahmad/Interpreting-Machine-Learning-Models">Interpretable Machine Learning & Explainable AI(XAI)</a></li>
