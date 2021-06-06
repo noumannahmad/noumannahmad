@@ -50,8 +50,8 @@
 
 ✅  ✅  ✅  ✅  ✅  ✅ My Expertise ✅  ✅  ✅  ✅  ✅  ✅ <br><br>
 
-⭐ Tensorflow ⭐ Keras ⭐ Pytorch ⭐ OpenCV  <br>
-⭐ Deep Learning ⭐ Machine Learning ⭐ NLP ⭐ Data Visualization  <br>
+⭐ Tensorflow ⭐ TensorFlow Federated ⭐ Keras ⭐ Pytorch ⭐ OpenCV  <br>
+⭐ Deep Learning ⭐ Deep Federated Learning⭐ Machine Learning ⭐ NLP ⭐ Data Visualization  <br>
 ⭐ Artificial Neural Networks(ANN) ⭐ Convolutional Neural Network(CNN)  <br>
 ⭐ Real Time Object Detection ⭐ Segmentation ⭐ Classification  <br>
 ⭐ Supervised ⭐ Unsupervised Learning ⭐ Data Clustering  <br>
