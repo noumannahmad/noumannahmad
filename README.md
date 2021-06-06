@@ -53,7 +53,7 @@
 ⭐ Tensorflow ⭐ TensorFlow Federated ⭐ Keras ⭐ Pytorch ⭐ OpenCV  <br>
 ⭐ Deep Learning ⭐ Deep Federated Learning⭐ Machine Learning ⭐ NLP ⭐ Data Visualization  <br>
 ⭐ Artificial Neural Networks(ANN) ⭐ Convolutional Neural Network(CNN)  <br>
-⭐ Real Time Object Detection ⭐ Segmentation ⭐ Classification  <br>
+⭐ Real Time Object Detection ⭐ Segmentation ⭐ Classification ⭐ XAI  <br>
 ⭐ Supervised ⭐ Unsupervised Learning ⭐ Data Clustering  <br>
 ⭐ Scikit-Learn ⭐ Matplotlib ⭐ Seaborn ⭐ SciPy  <br>
 ⭐ Numpy ⭐ Pandas ⭐ Datascience ⭐ Beautiful Soup  <br>
