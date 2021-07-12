@@ -66,7 +66,10 @@
 <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***Languages & Tools I Know...***
 <p align="left">
 <code><img height="50" src="https://www.vectorlogo.zone/logos/451research/451research-ar21.svg"></code>
+  
   <code><img height="50" src="https://github.com/uannabi/-/blob/master/resource/python-icon.svg"></code>
+  
+  
   <code><img height="50" src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg"></code>
  <code><img height="50" src="https://www.vectorlogo.zone/logos/opencv/opencv-ar21.svg"></code>
  <code><img height="50" src="https://www.vectorlogo.zone/logos/usepanda/usepanda-ar21.svg"></code>
@@ -74,7 +77,10 @@
  <code><img height="50" src="https://www.vectorlogo.zone/logos/pytorch/pytorch-ar21.svg"></code>
  <code><img height="50" src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-ar21.svg"></code>
   <code> <img height="50" src="https://github.com/Akash-chowrasia/Akash-chowrasia/blob/main/images/flask.svg"> </code>	
-  <code> <img height="50" src="https://github.com/uannabi/-/blob/master/resource/dj.svg"> </code>
+  
+  
+  <code> <img height="50" src="<img src="https://img.icons8.com/color/144/000000/python--v1.png"/>"> </code>
+  
   <code> <img height="50" src="https://github.com/uannabi/-/blob/master/resource/jp.svg"> </code>
   <code> <img height="50" src="https://github.com/uannabi/-/blob/master/resource/docker-ar21.svg"> </code>
   <code> <img height="50" src="https://github.com/uannabi/-/blob/master/resource/git.svg"> </code>
@@ -84,6 +90,8 @@
   <code> <img height="50" src="https://github.com/uannabi/-/blob/master/resource/other/sqlite-ar21.svg"> </code>
   <code> <img height="50" src="https://github.com/uannabi/-/blob/master/resource/other/mysql-ar21.svg"> </code>
   <code> <img height="50" src="https://github.com/uannabi/-/blob/master/resource/other/postgresql-ar21.svg"> </code>
+  
+  
   <code> <img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg"> </code>
   <code> <img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg"> </code>
   <code> <img height="50" src="https://www.vectorlogo.zone/logos/dotnet/dotnet-ar21.svg"> </code>
