@@ -77,7 +77,7 @@
   <code> <img height="50" src="https://github.com/Akash-chowrasia/Akash-chowrasia/blob/main/images/flask.svg"> </code>	
   
   
-  <code> <img height="50" src=""https://img.icons8.com/fluent/144/000000/docker.png"> </code>
+  <code> <img height="50" src="https://img.icons8.com/fluent/144/000000/docker.png"> </code>
   <code> <img height="50" src="https://img.icons8.com/color/48/000000/linux--v2.png"> </code>    
  <code> <img height="50" src="https://static.djangoproject.com/img/logos/django-logo-positive.png"> </code>
     
