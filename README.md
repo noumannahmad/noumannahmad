@@ -66,7 +66,6 @@
 <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***Languages & Tools I Know...***
 <p align="left">
 <code><img height="50" src="https://www.vectorlogo.zone/logos/451research/451research-ar21.svg"></code>
-  
   <code> <img height="50" src="https://img.icons8.com/color/144/000000/python--v1.png"> </code>
   <code><img height="50" src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg"></code>
  <code><img height="50" src="https://www.vectorlogo.zone/logos/opencv/opencv-ar21.svg"></code>
