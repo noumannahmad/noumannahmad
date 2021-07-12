@@ -67,9 +67,7 @@
 <p align="left">
 <code><img height="50" src="https://www.vectorlogo.zone/logos/451research/451research-ar21.svg"></code>
   
-  <code><img height="50" src="https://github.com/uannabi/-/blob/master/resource/python-icon.svg"></code>
-  
-  
+  <code> <img height="50" src="https://img.icons8.com/color/144/000000/python--v1.png"> </code>
   <code><img height="50" src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg"></code>
  <code><img height="50" src="https://www.vectorlogo.zone/logos/opencv/opencv-ar21.svg"></code>
  <code><img height="50" src="https://www.vectorlogo.zone/logos/usepanda/usepanda-ar21.svg"></code>
@@ -79,19 +77,21 @@
   <code> <img height="50" src="https://github.com/Akash-chowrasia/Akash-chowrasia/blob/main/images/flask.svg"> </code>	
   
   
-  <code> <img height="50" src="https://img.icons8.com/color/144/000000/python--v1.png"> </code>
-  
-  <code> <img height="50" src="https://github.com/uannabi/-/blob/master/resource/jp.svg"> </code>
-  <code> <img height="50" src="https://github.com/uannabi/-/blob/master/resource/docker-ar21.svg"> </code>
-  <code> <img height="50" src="https://github.com/uannabi/-/blob/master/resource/git.svg"> </code>
-  <code> <img height="50" src="https://github.com/uannabi/-/blob/master/resource/linux-ar21.svg"> </code>
+  <code> <img height="50" src=""https://img.icons8.com/fluent/144/000000/docker.png"> </code>
+  <code> <img height="50" src="https://img.icons8.com/color/48/000000/linux--v2.png"> </code>    
+ <code> <img height="50" src="https://static.djangoproject.com/img/logos/django-logo-positive.png"> </code>
+    
+    
+    
   <code> <img height="50" src="https://github.com/uannabi/-/blob/master/resource/other/apache_hadoop-ar21.svg"> </code>
   <code> <img height="50" src="https://github.com/uannabi/-/blob/master/resource/other/mongodb-ar21.svg"> </code>
-  <code> <img height="50" src="https://github.com/uannabi/-/blob/master/resource/other/sqlite-ar21.svg"> </code>
-  <code> <img height="50" src="https://github.com/uannabi/-/blob/master/resource/other/mysql-ar21.svg"> </code>
-  <code> <img height="50" src="https://github.com/uannabi/-/blob/master/resource/other/postgresql-ar21.svg"> </code>
-  
-  
+  <code> <img height="50" src="https://www.vectorlogo.zone/logos/sqlite/sqlite-ar21.svg"> </code>
+  <code> <img height="50" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"> </code>
+    
+    
+    
+    
+  <code> <img height="50" src="https://wiki.postgresql.org/images/a/a4/PostgreSQL_logo.3colors.svg"> </code>
   <code> <img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg"> </code>
   <code> <img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg"> </code>
   <code> <img height="50" src="https://www.vectorlogo.zone/logos/dotnet/dotnet-ar21.svg"> </code>
