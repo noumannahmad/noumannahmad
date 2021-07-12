@@ -79,7 +79,7 @@
   <code> <img height="50" src="https://github.com/Akash-chowrasia/Akash-chowrasia/blob/main/images/flask.svg"> </code>	
   
   
-  <code> <img height="50" src="<img src="https://img.icons8.com/color/144/000000/python--v1.png"/>"> </code>
+  <code> <img height="50" src=""https://img.icons8.com/color/144/000000/python--v1.png"> </code>
   
   <code> <img height="50" src="https://github.com/uannabi/-/blob/master/resource/jp.svg"> </code>
   <code> <img height="50" src="https://github.com/uannabi/-/blob/master/resource/docker-ar21.svg"> </code>
