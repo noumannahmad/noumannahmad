@@ -14,7 +14,7 @@
 <p align="center">
   <em>
     This is ME, Nouman ahmad, a <b>PhD Scholar </b> , <a href="https://katalog.uu.se/empInfo/?id=N21-1331/"> <b>Uppsala University</b>, Sweden </a>. <br>
-    A budding <b>Computer Vision & Machine Learning Engineer</b> and a <b>Competitive Programming Enthusiast</b>&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Designer.gif" width="36px">&nbsp,<br>who is <b>obsessed</b>
+    A budding <b>Computer Vision & Machine Learning Engineer</b> and a <b>Competitive Programming Enthusiast</b>&nbsp;&nbsp,<br>who is <b>obsessed</b>
     with the idea of <b>improving</b> himself and wants a <b>platform</b> to 
     <b>grow</b> and 
     <b>excel</b> &nbsp.
