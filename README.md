@@ -1,4 +1,4 @@
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Nouman Ahmad</h1>
+<h1 align="center">Hi, I'm Nouman Ahmad</h1>
 <h3 align="center">Researcher & Development Engineer | AI for Healthcare | Computer Vision | Machine Learning | Data Science | NLP Engineer </h3>
 <p align="center">
 <a href="https://www.linkedin.com/in/nouman-ahmad/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="nouman-ahmad" height="30" width="40" /></a>
