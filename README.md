@@ -26,7 +26,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=noumannahmad&label=Profile%20views&color=0e75b6&style=flat" alt="noumannahmad" /> </p>
 
  
-<img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***Talking about Personal Stuffs...***
+&nbsp;***Talking about Personal Stuffs...***
 
 <b>Research Interest: </b><br>
 ✔ Computer Vision ✔Machine Learning ✔Deep Learning ✔Medical Imaging ✔Image Processing ✔Explainable AI ✔Deep Federated learning ✔NLP <br> <br>
