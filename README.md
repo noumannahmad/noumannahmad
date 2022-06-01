@@ -6,7 +6,7 @@
 <a href="https://www.facebook.com/noumannahmad" target="blank"></a>
 <a href="https://www.instagram.com/noumannahmad" target="blank"></a>
 <a href="https://www.kaggle.com/noumannahmad" target="blank"></a>
-<a href = "mailto: noumanahmad2609@gmail.com"><img align="center" src="https://simpleicons.org/icons/gmail.svg" height="30" width="40" /></a>
+<a href = "mailto: noumanahmad2609@gmail.com"></a>
 </p>
 </p>
 
@@ -16,11 +16,11 @@
     This is ME, Nouman ahmad, a <b>PhD Scholar </b> , <a href="https://katalog.uu.se/empInfo/?id=N21-1331/"> <b>Uppsala University</b>, Sweden </a>. <br>
     A budding <b>Computer Vision & Machine Learning Engineer</b> and a <b>Competitive Programming Enthusiast</b>&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Designer.gif" width="36px">&nbsp,<br>who is <b>obsessed</b>
     with the idea of <b>improving</b> himself and wants a <b>platform</b> to 
-    <b>grow</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Rocket.gif" width="18px">and 
-    <b>excel</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Medal.gif" width="20px">&nbsp.
+    <b>grow</b> and 
+    <b>excel</b> &nbsp.
   </em> 
   <br>
-  <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50" /> <b><i>Learning while HOPING & HUSTLING!!!</i></b> <img src="https://media.giphy.com/media/7j2hfyeVcDtf2/giphy.gif" width="50" />
+   <b><i>Learning while HOPING & HUSTLING!!!</i></b> 
 </p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=noumannahmad&label=Profile%20views&color=0e75b6&style=flat" alt="noumannahmad" /> </p>
