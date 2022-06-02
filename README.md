@@ -1,12 +1,13 @@
 <h1 align="center">Hi, I'm Nouman Ahmad</h1>
 <h3 align="center">Researcher & Development Engineer | AI for Healthcare | Computer Vision | Machine Learning | Data Science | NLP Engineer </h3>
 <p align="center">
-<a href="https://www.linkedin.com/in/nouman-ahmad/" target="blank"></a>
+<a href="https://www.linkedin.com/in/nouman-ahmad/" target="blank" ><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="nouman-ahmad" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/ArtificialIntelligenceHub" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="nouman-ahmad" height="30" width="40" /></a>
-<a href="https://www.facebook.com/noumannahmad" target="blank"></a>
-<a href="https://www.instagram.com/noumannahmad" target="blank"></a>
-<a href="https://www.kaggle.com/noumannahmad" target="blank"></a>
-<a href = "mailto: noumanahmad2609@gmail.com"></a>
+<a href="https://www.facebook.com/noumannahmad" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="nouman-ahmad" height="30" width="40" /></a>
+<a href="https://www.instagram.com/noumannahmad" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="nouman-ahmad" height="30" width="40" /></a>
+
+<a href="https://www.kaggle.com/noumannahmad" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/kaggle.svg" alt="nouman-ahmad" height="30" width="40" /></a>
+<a href = "mailto: noumanahmad2609@gmail.com"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg" alt="nouman-ahmad" height="30" width="40" /></a>
 </p>
 </p>
 
