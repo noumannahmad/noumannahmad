@@ -89,7 +89,6 @@
   <code> <img height="50" src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-ar21.svg"> </code>
   <code> <img height="50" src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-ar21.svg"> </code>
 
-  
   <hr>
   <p align="center">
  &nbsp;<i><b>GitHub Stats</b></i></p>
