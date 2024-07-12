@@ -73,7 +73,7 @@
  <code><img height="50" src="https://www.vectorlogo.zone/logos/numpy/numpy-ar21.svg"></code>
  <code><img height="50" src="https://www.vectorlogo.zone/logos/pytorch/pytorch-ar21.svg"></code>
   <code> <img height="50" src="https://github.com/Akash-chowrasia/Akash-chowrasia/blob/main/images/flask.svg"> </code>	
-  <code> <img height="50" src="https://img.icons8.com/color/48/000000/linux--v2.png"> </code>    
+  <code> <img height="50" src="https://www.vectorlogo.zone/logos/linux/linux-ar21.svg"> </code>    
  <code> <img height="50" src="https://static.djangoproject.com/img/logos/django-logo-positive.png"> </code>
   <code> <img height="50" src="https://www.vectorlogo.zone/logos/apache_hadoop/apache_hadoop-ar21.svg"> </code>
   <code> <img height="50" src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg"> </code>
