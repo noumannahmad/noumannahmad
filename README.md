@@ -79,7 +79,7 @@
   <code> <img height="50" src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg"> </code>
   <code> <img height="50" src="https://www.vectorlogo.zone/logos/sqlite/sqlite-ar21.svg"> </code>
   <code> <img height="50" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"> </code>
-  <code> <img height="50" src="https://wiki.postgresql.org/images/a/a4/PostgreSQL_logo.3colors.svg"> </code>
+  <code> <img height="50" src="https://www.vectorlogo.zone/logos/postgresql/postgresql-ar21.svg"> </code>
   <code> <img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg"> </code>
   <code> <img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg"> </code>
   <code> <img height="50" src="https://www.vectorlogo.zone/logos/dotnet/dotnet-ar21.svg"> </code>
