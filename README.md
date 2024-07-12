@@ -66,7 +66,7 @@
 &nbsp;***Languages & Tools I Know...***
 <p align="left">
 <code><img height="50" src="https://www.vectorlogo.zone/logos/451research/451research-ar21.svg"></code>
-  <code> <img height="50" src="https://img.icons8.com/color/144/000000/python--v1.png"> </code>
+  <code> <img height="50" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"> </code>
   <code><img height="50" src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg"></code>
  <code><img height="50" src="https://www.vectorlogo.zone/logos/opencv/opencv-ar21.svg"></code>
  <code><img height="50" src="https://www.vectorlogo.zone/logos/usepanda/usepanda-ar21.svg"></code>
