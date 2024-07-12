@@ -86,7 +86,7 @@
   <code> <img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg"> </code>
   <code> <img height="50" src="https://www.vectorlogo.zone/logos/dotnet/dotnet-ar21.svg"> </code>
   <code> <img height="50" src="https://d33wubrfki0l68.cloudfront.net/f84b022686eac86ba972feae8dabf6af8d1dc263/de78f/images/nav_logo.svg"> </code>
-  
+  <code> <img height="50" src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-ar21.svg"> </code>
   <hr>
   <p align="center">
  &nbsp;<i><b>GitHub Stats</b></i></p>
