@@ -90,6 +90,8 @@
   <code> <img height="50" src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-ar21.svg"> </code>
     <code> <img height="50" src="https://www.vectorlogo.zone/logos/jenkins/jenkins-official.svg"> </code
    <code> <img height="50" src="https://www.vectorlogo.zone/logos/terraformio/terraformio-ar21.svg"> </code>
+      <code> <img height="50" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"> </code>
+         <code> <img height="50" src="https://www.vectorlogo.zone/logos/gitlab/gitlab-ar21.svg"> </code>
 
   <hr>
   <p align="center">
