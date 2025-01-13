@@ -29,7 +29,7 @@
 &nbsp;***Talking about Personal Stuffs...***
 
 <b>Research Interest: </b><br>
-✔ Computer Vision ✔Machine Learning ✔Deep Learning ✔Medical Imaging ✔Image Processing ✔Explainable AI ✔Deep Federated learning ✔NLP <br> <br>
+✔ Computer Vision ✔Machine Learning ✔Deep Learning ✔Medical Imaging ✔Image Processing ✔Explainable AI ✔Deep Federated learning ✔NLP ✔LLMs <br> <br>
 
 
 <h2>This Github Repositories are:</h2>
