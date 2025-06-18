@@ -93,6 +93,7 @@
       <code> <img height="50" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"> </code>
          <code> <img height="50" src="https://www.vectorlogo.zone/logos/gitlab/gitlab-ar21.svg"> </code>
             <code> <img height="50" src="https://github.com/detain/svg-logos/blob/master/svg/s/sonarqube.svg"> </code>
+             <code> <img height="50" src="https://www.vectorlogo.zone/logos/microsoft_powerbi/microsoft_powerbi-ar21~bgwhite.svg"> </code>
 
   <hr>
   <p align="center">
