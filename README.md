@@ -28,39 +28,6 @@
  
 &nbsp;***Talking about Personal Stuffs...***
 
-<b>Research Interest: </b><br>
-✔ Computer Vision ✔Machine Learning ✔Deep Learning ✔Medical Imaging ✔Image Processing ✔Explainable AI ✔Deep Federated learning ✔NLP ✔LLMs <br> <br>
-
-
-<h2>This Github Repositories are:</h2>
-
-<ol>
-    <li value="1"><a href="https://github.com/noumannahmad/Medical-Imaging-with-Deep-Learning">Medical Imaging with Deep Learning</a></li>
-  <li><a href="https://github.com/noumannahmad/Deep-Federated-Learning">Deep Federated Learning</a></li>
-  <li><a href="https://github.com/noumannahmad/Interpreting-Machine-Learning-Models">Interpretable Machine Learning & Explainable AI(XAI)</a></li>
-  <li><a href="https://github.com/noumannahmad/Generative-Adversarial-Network">Generative Adversarial Network</a></li>
-  <li><a href="https://github.com/noumannahmad/Computer-Vision">Computer Vision</a></li>
-  <li><a href="https://github.com/noumannahmad/Deep-Learning">Deep Learning</a></li>
-  <li><a href="https://github.com/noumannahmad/Machine-Learning">Machine Learning</a></li> 
-  <li><a href="https://github.com/noumannahmad/Natural-Language-Processing">Natural Language Processing</a></li>
-  <li><a href="https://github.com/noumannahmad/OpenCV">OpenCV</a></li>
-  <li><a href="https://github.com/noumannahmad/Amazing-Python">Amazing Python</a></li>
-  <li><a href="https://github.com/noumannahmad/Flask">Flask Web Apps</a></li>
-</ol>
-
-
-✅  ✅  ✅  ✅  ✅  ✅ My Expertise ✅  ✅  ✅  ✅  ✅  ✅ <br><br>
-
-⭐ Tensorflow ⭐ TensorFlow Federated ⭐ Keras ⭐ Pytorch ⭐ OpenCV  <br>
-⭐ Deep Learning ⭐ Deep Federated Learning⭐ Machine Learning ⭐ NLP ⭐ Data Visualization  <br>
-⭐ Artificial Neural Networks(ANN) ⭐ Convolutional Neural Network(CNN)  <br>
-⭐ Real Time Object Detection ⭐ Segmentation ⭐ Classification ⭐ XAI  <br>
-⭐ Supervised ⭐ Unsupervised Learning ⭐ Data Clustering  <br>
-⭐ Scikit-Learn ⭐ Matplotlib ⭐ Seaborn ⭐ SciPy  <br>
-⭐ Numpy ⭐ Pandas ⭐ Datascience ⭐ Beautiful Soup  <br>
-⭐ Python ⭐ Matlab ⭐ Android ⭐ Flutter Application  <br>
-⭐ Flask ⭐ Django ⭐ Tkinter GUI ⭐ Web Scraping ⭐ And more...  <br> <br> <br> <br>
-
 
 
 &nbsp;***Languages & Tools I Know...***
