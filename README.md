@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Nouman Ahmad</h1>
-<h3 align="center">Data Scientist & ML Engineer | AI Researcher | Cloud & MLOps Expert| NLP & LLMs Engineer</h3>
+<h3 align="center">Data Scientist & ML Engineer | AI Researcher | Cloud & MLOps Expert | NLP & LLMs Engineer</h3>
 <p align="center">
 <a href="https://www.youtube.com/c/ArtificialIntelligenceHub" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="nouman-ahmad" height="30" width="40" /></a>
 <a href="https://buffml.com/" target="blank" ><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/blogger.svg" alt="nouman-ahmad" height="30" width="40" /></a>
