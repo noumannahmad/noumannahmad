@@ -15,10 +15,11 @@
 <em>
   Hi, I'm <b>Nouman Ahmad</b> — <b>Data Scientist & ML Engineer</b>, <b>AI Researcher</b>, and <b>Cloud & MLOps Expert</b>.<br>
   Currently pursuing my PhD at 
-  <a href="https://www.uu.se/kontakt-och-organisation/personal?query=N21-1331"><b>Uppsala University</b>, Sweden</a>, specializing in <b>Medical Imaging, Computer Vision, and Deep Learning</b>.<br>
-  I’m passionate about building scalable AI systems, solving real-world problems with ML, and contributing to impactful research.<br>
-  Always eager to <b>learn</b>, <b>innovate</b>, and <b>grow</b> in the world of AI and data science.
+  <a href="https://www.uu.se/kontakt-och-organisation/personal?query=N21-1331"><b>Uppsala University</b>, Sweden</a>.<br>
+  I’m passionate about building intelligent systems, solving real-world problems with machine learning, and contributing to impactful AI research.<br>
+  Always eager to <b>learn</b>, <b>innovate</b>, and <b>grow</b> in the field of data science and artificial intelligence.
 </em>
+
 
   <br>
    <b><i>Learning while HOPING & HUSTLING!!!</i></b> 
