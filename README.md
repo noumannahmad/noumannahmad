@@ -12,13 +12,14 @@
 
 
 <p align="center">
-  <em>
-    This is ME, Nouman ahmad, a <b>PhD Scholar </b> , <a href="https://www.uu.se/kontakt-och-organisation/personal?query=N21-1331"> <b>Uppsala University</b>, Sweden </a>. <br>
-    A budding <b>Computer Vision & Machine Learning Engineer</b> and a <b>Competitive Programming Enthusiast</b>&nbsp;&nbsp,<br>who is <b>obsessed</b>
-    with the idea of <b>improving</b> himself and wants a <b>platform</b> to 
-    <b>grow</b> and 
-    <b>excel</b> &nbsp.
-  </em> 
+<em>
+  Hi, I'm <b>Nouman Ahmad</b> — <b>Data Scientist & ML Engineer</b>, <b>AI Researcher</b>, and <b>Cloud & MLOps Expert</b>.<br>
+  Currently pursuing my PhD at 
+  <a href="https://www.uu.se/kontakt-och-organisation/personal?query=N21-1331"><b>Uppsala University</b>, Sweden</a>, specializing in <b>Medical Imaging, Computer Vision, and Deep Learning</b>.<br>
+  I’m passionate about building scalable AI systems, solving real-world problems with ML, and contributing to impactful research.<br>
+  Always eager to <b>learn</b>, <b>innovate</b>, and <b>grow</b> in the world of AI and data science.
+</em>
+
   <br>
    <b><i>Learning while HOPING & HUSTLING!!!</i></b> 
 </p>
