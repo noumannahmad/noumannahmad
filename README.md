@@ -13,7 +13,7 @@
 
 <p align="center">
 <em>
- .<br>
+ <br>
   Currently pursuing my PhD at 
   <a href="https://www.uu.se/kontakt-och-organisation/personal?query=N21-1331"><b>Uppsala University</b>, Sweden</a>.<br>
   I’m passionate about building intelligent systems, solving real-world problems with machine learning, and contributing to impactful AI research.<br>
