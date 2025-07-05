@@ -30,37 +30,7 @@
  
 
 
-&nbsp;***Languages & Tools I Know...***
-<p align="left">
-<code><img height="50" src="https://www.vectorlogo.zone/logos/451research/451research-ar21.svg"></code>
-  <code> <img height="50" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"> </code>
-  <code><img height="50" src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-ar21.svg"></code>
- <code><img height="50" src="https://www.vectorlogo.zone/logos/opencv/opencv-ar21.svg"></code>
- <code><img height="50" src="https://www.vectorlogo.zone/logos/usepanda/usepanda-ar21.svg"></code>
- <code><img height="50" src="https://www.vectorlogo.zone/logos/numpy/numpy-ar21.svg"></code>
- <code><img height="50" src="https://www.vectorlogo.zone/logos/pytorch/pytorch-ar21.svg"></code>
-  <code> <img height="50" src="https://github.com/Akash-chowrasia/Akash-chowrasia/blob/main/images/flask.svg"> </code>	
-  <code> <img height="50" src="https://www.vectorlogo.zone/logos/linux/linux-ar21.svg"> </code>    
- <code> <img height="50" src="https://static.djangoproject.com/img/logos/django-logo-positive.png"> </code>
-  <code> <img height="50" src="https://www.vectorlogo.zone/logos/apache_hadoop/apache_hadoop-ar21.svg"> </code>
-  <code> <img height="50" src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg"> </code>
-  <code> <img height="50" src="https://www.vectorlogo.zone/logos/sqlite/sqlite-ar21.svg"> </code>
-  <code> <img height="50" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"> </code>
-  <code> <img height="50" src="https://www.vectorlogo.zone/logos/postgresql/postgresql-ar21.svg"> </code>
-  <code> <img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg"> </code>
-  <code> <img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg"> </code>
-  <code> <img height="50" src="https://www.vectorlogo.zone/logos/dotnet/dotnet-ar21.svg"> </code>
-  <code> <img height="50" src="https://www.vectorlogo.zone/logos/docker/docker-ar21.svg"> </code>
-  <code> <img height="50" src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-ar21.svg"> </code>
-  <code><img height="50" src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-ar21.svg"></code>
-  <code> <img height="50" src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-ar21.svg"> </code>
-  <code> <img height="50" src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-ar21.svg"> </code>
-    <code> <img height="50" src="https://www.vectorlogo.zone/logos/jenkins/jenkins-official.svg"> </code
-   <code> <img height="50" src="https://www.vectorlogo.zone/logos/terraformio/terraformio-ar21.svg"> </code>
-      <code> <img height="50" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"> </code>
-         <code> <img height="50" src="https://www.vectorlogo.zone/logos/gitlab/gitlab-ar21.svg"> </code>
-            <code> <img height="50" src="https://github.com/detain/svg-logos/blob/master/svg/s/sonarqube.svg"> </code>
-             <code> <img height="50" src="https://www.vectorlogo.zone/logos/microsoft_powerbi/microsoft_powerbi-ar21~bgwhite.svg"> </code>
+
 
   <hr>
   <p align="center">
