@@ -1,188 +1,133 @@
 
-<!-- ================= HEADER ================= -->
+<!-- ================= PROFILE HEADER ================= -->
 
-<div align="center">
+<h1 align="center">Nouman Ahmad, PhD</h1>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:081426,50:12345b,100:2563eb&height=230&section=header&text=Nouman%20Ahmad,%20PhD&fontSize=44&fontColor=ffffff&fontAlignY=36&desc=AI%20Research%20Scientist%20%26%20Engineer&descSize=19&descAlignY=57&animation=fadeIn" />
+<h3 align="center">
+AI Research Scientist & Engineer
+</h3>
 
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=21&duration=3000&pause=1500&color=3B82F6&center=true&vCenter=true&width=650&lines=Generative+AI+%26+Large+Language+Models;Agentic+AI+%26+Multi-Agent+Systems;Enterprise+RAG+%26+Knowledge+Intelligence;Trustworthy+AI+%26+Production+AI;From+Research+to+Real-World+Impact" alt="Areas of expertise" />
-</a>
-
-<p>
-  <a href="https://www.linkedin.com/in/nouman-ahmad/">
-    <img src="https://img.shields.io/badge/LinkedIn-174474?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://scholar.google.com/citations?user=4M88O6YAAAAJ">
-    <img src="https://img.shields.io/badge/Google_Scholar-174474?style=for-the-badge&logo=googlescholar&logoColor=white" />
-  </a>
-  <a href="mailto:noumanahmad2609@gmail.com">
-    <img src="https://img.shields.io/badge/Email-174474?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
+<p align="center">
+  <b>Research · Engineering · Innovation</b>
 </p>
 
-<img src="https://komarev.com/ghpvc/?username=noumannahmad&label=Profile%20Views&color=2563eb&style=flat-square" />
+<p align="center">
+  Swedish AI Factory (NAISS) | Sweden
+</p>
 
-</div>
+<p align="center">
+  <a href="https://www.linkedin.com/in/nouman-ahmad/">LinkedIn</a>
+  &nbsp;|&nbsp;
+  <a href="https://scholar.google.com/citations?user=4M88O6YAAAAJ">Google Scholar</a>
+  &nbsp;|&nbsp;
+  <a href="mailto:noumanahmad2609@gmail.com">Email</a>
+  &nbsp;|&nbsp;
+  <a href="https://www.kaggle.com/noumannahmad">Kaggle</a>
+</p>
 
-<!-- ================= ABOUT ================= -->
+<p align="center">
+  <i>Transforming AI research into real-world solutions.</i>
+</p>
+
+---
+
+<!-- ================= ABOUT ME ================= -->
 
 ## About Me
 
-I am an **AI Research Scientist & Engineer** based in Sweden, with a PhD in AI/ML from **Uppsala University** and over 7 years of experience in artificial intelligence, machine learning, and applied AI research.
+I am an **AI Research Scientist & Engineer** with a PhD in Artificial Intelligence and Machine Learning from **Uppsala University, Sweden**, and over 7 years of experience in AI research, machine learning, and applied AI engineering.
 
-Currently working at the **Swedish AI Factory (NAISS)**, I focus on transforming advanced AI research into intelligent, reliable, and scalable solutions for real-world applications.
+Currently working at the **Swedish AI Factory (NAISS)**, I focus on developing intelligent, reliable, and scalable AI systems that bridge the gap between research and real-world applications.
+
+My work spans generative AI, agentic systems, enterprise AI, computer vision, and high-performance AI computing.
 
 <div align="center">
 
-| 🎓 Education | 💼 Experience | 🌍 Location |
+| Education | Experience | Location |
 | :---: | :---: | :---: |
-| PhD in AI/ML | 7+ Years in AI | Sweden |
+| **PhD in AI/ML** | **7+ Years** | **Sweden** |
 | Uppsala University | Research & Engineering | Europe |
 
 </div>
 
-> **My mission:** Bridging the gap between AI research, engineering, and real-world impact.
+---
 
-<!-- ================= EXPERTISE ================= -->
+<!-- ================= CORE EXPERTISE ================= -->
 
-## Areas of Expertise
+## Core Expertise
 
-<table>
-<tr>
-<td width="50%" valign="top">
+| Domain | Areas of Expertise |
+| :--- | :--- |
+| **Generative AI & LLMs** | Foundation models, fine-tuning, multimodal AI |
+| **Agentic AI** | AI agents, multi-agent systems, reasoning and orchestration |
+| **Enterprise RAG** | Retrieval-augmented generation, semantic search, knowledge intelligence |
+| **Computer Vision** | Medical imaging, image classification, vision-language models |
+| **Machine Learning** | Deep learning, predictive modeling, representation learning |
+| **Trustworthy AI** | Model evaluation, reliability, explainability and verification |
+| **Production AI & MLOps** | Deployment, monitoring, containerization and automation |
+| **HPC & GPU Computing** | High-performance computing, scalable AI and optimization |
 
-### 🧠 Generative AI & LLMs
+---
 
-- Large language models
-- Multimodal AI
-- Fine-tuning and optimization
-- Foundation models
-
-</td>
-<td width="50%" valign="top">
-
-### 🤖 Agentic AI
-
-- Autonomous AI agents
-- Multi-agent architectures
-- Reasoning and orchestration
-- Intelligent automation
-
-</td>
-</tr>
-
-<tr>
-<td width="50%" valign="top">
-
-### 🔍 Enterprise RAG
-
-- Retrieval-augmented generation
-- Semantic search
-- Knowledge intelligence
-- Evidence-grounded generation
-
-</td>
-<td width="50%" valign="top">
-
-### 👁️ Computer Vision
-
-- Medical image analysis
-- Image classification
-- Vision transformers
-- Vision-language models
-
-</td>
-</tr>
-
-<tr>
-<td width="50%" valign="top">
-
-### 🛡️ Trustworthy AI
-
-- AI evaluation
-- Reliability and verification
-- Responsible AI
-- Explainable AI
-
-</td>
-<td width="50%" valign="top">
-
-### 📊 Machine Learning
-
-- Deep learning
-- Predictive modeling
-- Representation learning
-- Model evaluation
-
-</td>
-</tr>
-
-<tr>
-<td width="50%" valign="top">
-
-### ☁️ Production AI & MLOps
-
-- Model deployment
-- AI infrastructure
-- Containerization
-- CI/CD and monitoring
-
-</td>
-<td width="50%" valign="top">
-
-### ⚡ HPC & GPU Computing
-
-- High-performance computing
-- GPU acceleration
-- Distributed AI workloads
-- Resource optimization
-
-</td>
-</tr>
-</table>
-
-<!-- ================= PROJECTS ================= -->
+<!-- ================= SELECTED PROJECTS ================= -->
 
 ## Selected Research & Projects
 
-| Project | Description |
-| :--- | :--- |
-| **Enterprise Knowledge Intelligence** | AI-powered document retrieval and grounded knowledge systems for enterprise and public-sector applications. |
-| **Agentic AI Systems** | Intelligent multi-agent architectures for reasoning, evidence acquisition, verification, and automation. |
-| **AI for Healthcare** | Deep learning and evidence-grounded AI for medical image analysis and histopathology. |
-| **Multi-LLM Gateway** | Intelligent model orchestration, evaluation, cost optimization, and resource management. |
+### Enterprise RAG & Knowledge Intelligence
 
-<!-- ================= TECH STACK ================= -->
+Building intelligent document retrieval and knowledge systems using retrieval-augmented generation, semantic search, and grounded AI responses.
+
+**Focus:** Enterprise AI · LLMs · RAG · Information Retrieval
+
+### Agentic AI & Multi-Agent Systems
+
+Designing intelligent agents for reasoning, evidence acquisition, verification, orchestration, and autonomous task execution.
+
+**Focus:** Agentic AI · Multi-Agent Systems · LLM Reasoning
+
+### AI for Healthcare & Medical Imaging
+
+Developing deep learning and evidence-grounded AI approaches for medical image analysis and breast cancer histopathology classification.
+
+**Focus:** Computer Vision · Medical AI · Deep Learning
+
+### Multi-Model AI Gateway
+
+Exploring intelligent orchestration across multiple language models to improve performance, reliability, resource utilization, and operational costs.
+
+**Focus:** LLM Gateway · Model Optimization · AI Infrastructure
+
+---
+
+<!-- ================= TECHNICAL STACK ================= -->
 
 ## Technology & Tools
 
-<div align="center">
+### AI & Machine Learning
 
-**AI & Machine Learning**
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,opencv,sklearn&perline=10" alt="Python, PyTorch, TensorFlow, OpenCV and Scikit-learn" />
+</p>
 
-<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,opencv,sklearn&perline=8" />
+Python · PyTorch · TensorFlow · OpenCV · Scikit-learn · Hugging Face
 
-<br>
+### Generative AI & Agentic Systems
 
-<img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black" />
-<img src="https://img.shields.io/badge/LangChain-174474?style=flat-square&logo=langchain&logoColor=white" />
-<img src="https://img.shields.io/badge/MLflow-0194E2?style=flat-square&logo=mlflow&logoColor=white" />
-<img src="https://img.shields.io/badge/NVIDIA_CUDA-76B900?style=flat-square&logo=nvidia&logoColor=white" />
+LangChain · LLMs · RAG · Vector Databases · Multi-Agent Systems
 
-<br><br>
+### Software Engineering & MLOps
 
-**Software Engineering & Infrastructure**
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=fastapi,docker,kubernetes,linux,git,github&perline=10" alt="FastAPI, Docker, Kubernetes, Linux, Git and GitHub" />
+</p>
 
-<img src="https://skillicons.dev/icons?i=fastapi,docker,kubernetes,linux,bash,git,github,postgres&perline=8" />
+FastAPI · Docker · Kubernetes · Linux · Git · MLflow · CI/CD
 
-<br><br>
+### AI Infrastructure & Computing
 
-**Cloud & Development**
+NVIDIA GPUs · CUDA · HPC · Distributed Computing · Model Optimization
 
-<img src="https://skillicons.dev/icons?i=aws,azure,gcp,githubactions,vscode&perline=8" />
-
-</div>
+---
 
 <!-- ================= RESEARCH ================= -->
 
@@ -190,13 +135,16 @@ Currently working at the **Swedish AI Factory (NAISS)**, I focus on transforming
 
 - Generative AI and foundation models
 - Evidence-grounded multi-agent reasoning
-- Trustworthy and responsible AI
-- Medical AI and computer vision
-- AI reliability, evaluation, and optimization
+- Trustworthy and responsible artificial intelligence
+- Computer vision and medical image analysis
+- AI evaluation, reliability, and optimization
 - Scalable and efficient AI systems
 
-Explore my scientific publications on
+**Publications:**
+Explore my research and scientific publications on
 [Google Scholar](https://scholar.google.com/citations?user=4M88O6YAAAAJ).
+
+---
 
 <!-- ================= GITHUB ANALYTICS ================= -->
 
@@ -204,47 +152,48 @@ Explore my scientific publications on
 
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=noumannahmad&show_icons=true&hide_border=true&theme=github_dark&hide_rank=true" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=noumannahmad&show_icons=true&hide_border=true&theme=default&hide_rank=true" />
-</picture>
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=noumannahmad&show_icons=true&hide_border=true&theme=transparent&hide_rank=true" alt="GitHub Statistics" />
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=noumannahmad&layout=compact&hide_border=true&theme=github_dark" />
-  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=noumannahmad&layout=compact&hide_border=true&theme=default" />
-</picture>
-
-<br>
-
-<img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=noumannahmad&bg_color=00000000&color=3b82f6&line=2563eb&point=60a5fa&area=true&hide_border=true&custom_title=Contribution%20Activity" />
+<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=noumannahmad&layout=compact&hide_border=true&theme=transparent" alt="Most Used Languages" />
 
 </div>
-
-<!-- ================= CONTACT ================= -->
-
-## Let's Connect
 
 <div align="center">
 
-I'm open to research collaborations, AI consulting,
-and innovative engineering projects.
-
-**Let's build intelligent systems that make a difference.**
-
-<br>
-
-<a href="https://www.linkedin.com/in/nouman-ahmad/">
-  <img src="https://img.shields.io/badge/Connect_on_LinkedIn-174474?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-
-<a href="mailto:noumanahmad2609@gmail.com">
-  <img src="https://img.shields.io/badge/Get_in_Touch-174474?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-
-<br><br>
-
-<i>From research to real-world intelligence.</i>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:081426,50:12345b,100:2563eb&height=120&section=footer" />
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=noumannahmad&bg_color=00000000&color=3b82f6&line=2563eb&point=60a5fa&area=true&hide_border=true" alt="GitHub Contribution Activity" />
 
 </div>
+
+[Explore my repositories](https://github.com/noumannahmad?tab=repositories)
+
+---
+
+<!-- ================= CONTACT ================= -->
+
+## Let's Collaborate
+
+I am open to research collaborations, AI consulting, technical discussions, and innovative engineering projects.
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/nouman-ahmad/">
+    <b>LinkedIn</b>
+  </a>
+  &nbsp;·&nbsp;
+  <a href="https://scholar.google.com/citations?user=4M88O6YAAAAJ">
+    <b>Google Scholar</b>
+  </a>
+  &nbsp;·&nbsp;
+  <a href="mailto:noumanahmad2609@gmail.com">
+    <b>Get in Touch</b>
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <i>From research to real-world intelligence.</i>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=noumannahmad&label=Profile%20Views&color=2563eb&style=flat-square" alt="Profile Views" />
+</p>
