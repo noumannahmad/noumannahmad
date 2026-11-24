@@ -1,39 +1,92 @@
-<h1 align="center">Hi, I'm Nouman Ahmad</h1>
-<h3 align="center">Data Scientist & ML Engineer | AI Researcher | Cloud & MLOps Expert | GenAI & LLMs Engineer</h3>
-<p align="center">
-<!-- <a href="https://www.youtube.com/c/ArtificialIntelligenceHub" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="nouman-ahmad" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/nouman-ahmad/" target="blank" ><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="nouman-ahmad" height="30" width="40" /></a>
-<a href="https://www.kaggle.com/noumannahmad" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/kaggle.svg" alt="nouman-ahmad" height="30" width="40" /></a>
-<a href = "mailto: noumanahmad2609@gmail.com"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg" alt="nouman-ahmad" height="30" width="40" /></a> -->
-</p>
 
+<h1 align="center">Hi, I'm Nouman Ahmad, PhD</h1>
+
+<h3 align="center">
+  AI Research Scientist & Engineer
+</h3>
 
 <p align="center">
-<em>
- <br>
-  PhD (Data Science, AI/ML) at 
-  <a href="https://www.uu.se/kontakt-och-organisation/personal?query=N21-1331"><b>Uppsala University</b>, Sweden</a>.<br>
-  I’m passionate about building intelligent systems, solving real-world problems with machine learning, and contributing to impactful AI research.<br>
-  Always eager to <b>learn</b>, <b>innovate</b>, and <b>grow</b> in the field of data science and artificial intelligence.
-</em>
-
-
-  <br>
-   <b><i>Learning while HOPING & HUSTLING!!!</i></b> 
+  Generative AI • Agentic AI • Machine Learning • Production AI
 </p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=noumannahmad&label=Profile%20views&color=0e75b6&style=flat" alt="noumannahmad" /> </p>
+<p align="center">
+  <a href="https://www.linkedin.com/in/nouman-ahmad/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://scholar.google.com/citations?user=4M88O6YAAAAJ">
+    <img src="https://img.shields.io/badge/Google_Scholar-4285F4?style=flat-square&logo=googlescholar&logoColor=white" />
+  </a>
+  <a href="mailto:noumanahmad2609@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" />
+  </a>
+</p>
 
- 
+---
 
+## About Me
 
+I'm an AI Research Scientist and Engineer based in Sweden, with a PhD in AI/ML from Uppsala University and 7+ years of experience in artificial intelligence, research, and applied AI engineering.
 
+Currently working at the **Swedish AI Factory (NAISS)**, I focus on bridging the gap between AI research and real-world applications by building intelligent, reliable, and scalable AI systems.
 
-  <hr>
-  <p align="center">
- &nbsp;<i><b>GitHub Stats</b></i></p>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=noumannahmad&show_icons=true&locale=en&layout=compact" alt="noumannahmad" /></p>
+## Current Focus
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=noumannahmad&show_icons=true&locale=en" alt="noumannahmad" width="410" /></p>
+| Domain | Areas of Expertise |
+| :--- | :--- |
+| Generative AI | LLMs, multimodal AI, fine-tuning |
+| Agentic AI | AI agents, multi-agent systems, orchestration |
+| Enterprise RAG | Retrieval, knowledge systems, grounded generation |
+| Machine Learning | Deep learning, predictive modeling |
+| Computer Vision | Image analysis, medical AI |
+| Production AI | MLOps, deployment, AI evaluation |
+| HPC & GPUs | Scalable AI computing, model optimization |
 
-<hr>
+## Technical Stack
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,opencv,fastapi,docker,kubernetes,linux,git,github&perline=10" />
+</p>
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black" />
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white" />
+  <img src="https://img.shields.io/badge/MLflow-0194E2?style=flat-square&logo=mlflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/NVIDIA_CUDA-76B900?style=flat-square&logo=nvidia&logoColor=white" />
+</p>
+
+## Research & Interests
+
+- Evidence-grounded and trustworthy AI
+- LLM reasoning and multi-agent architectures
+- Retrieval-augmented generation (RAG)
+- Medical AI and computer vision
+- AI evaluation, reliability, and optimization
+- Scalable and efficient AI infrastructure
+
+## Selected Work
+
+- **Enterprise RAG** — AI-powered document retrieval and knowledge systems.
+- **Agentic AI** — Intelligent agents for reasoning, verification, and task automation.
+- **Medical AI** — Deep learning and evidence-grounded approaches for histopathology.
+- **Multi-Model AI Gateway** — Efficient LLM orchestration and resource optimization.
+
+## GitHub Activity
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=noumannahmad&show_icons=true&hide_border=true&theme=transparent&hide_rank=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=noumannahmad&layout=compact&hide_border=true&theme=transparent" width="40%" />
+</p>
+
+---
+
+<p align="center">
+  Open to research collaborations, AI innovation, and meaningful projects.
+</p>
+
+<p align="center">
+  <i>Bridging AI research and real-world impact.</i>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=noumannahmad&label=Profile%20views&color=0077b5&style=flat-square" />
+</p>
